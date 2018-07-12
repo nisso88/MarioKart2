@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fefc53d2-1579-49ba-9f4f-14322b54460f" name="Default" comment="" />
+    <list default="true" id="fefc53d2-1579-49ba-9f4f-14322b54460f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Tp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Tp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Tp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tp.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,11 +33,21 @@
       <file leaf-file-name="Tp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-362">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="102">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1005#1006#0" expanded="true" />
+                <element signature="e#1034#1035#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -49,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Header.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#openBooks#0;class#Header#0" />
@@ -63,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ConsolePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
@@ -123,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/CartPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#759#760#0" expanded="true" />
@@ -141,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/AmazonPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -561,37 +582,6 @@
               <item name="MarioKart2" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarioKart2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="MarioKart2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarioKart2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarioKart2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarioKart2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarioKart2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarioKart2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarioKart2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarioKart2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarioKart2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarioKart2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -616,17 +606,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Tp.test">
+  <component name="RunManager" selected="JUnit.Tp">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Tp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TP.TestMarioKartWithPageObjects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MarioKart2_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Tp" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="TP" />
+      <option name="METHOD_NAME" value="TestMarioKartWithPageObjects" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -637,13 +627,64 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Tp.testMarioKart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TP.testMarioKart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarioKart2_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TP" />
+      <option name="METHOD_NAME" value="testMarioKart" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Tp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MarioKart2_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Tp" />
-      <option name="METHOD_NAME" value="testMarioKart" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Tp.TestMarioKartWithPageObjects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarioKart2_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tp" />
+      <option name="METHOD_NAME" value="TestMarioKartWithPageObjects" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Tp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarioKart2_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tp" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -693,13 +734,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="JUnit.Tp" />
+      <item itemvalue="JUnit.Tp.TestMarioKartWithPageObjects" />
+      <item itemvalue="JUnit.TP.TestMarioKartWithPageObjects" />
+      <item itemvalue="JUnit.TP.testMarioKart" />
       <item itemvalue="JUnit.Tp.test" />
-      <item itemvalue="JUnit.Tp.testMarioKart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Tp" />
         <item itemvalue="JUnit.Tp.test" />
-        <item itemvalue="JUnit.Tp.testMarioKart" />
+        <item itemvalue="JUnit.TP.testMarioKart" />
+        <item itemvalue="JUnit.TP.TestMarioKartWithPageObjects" />
+        <item itemvalue="JUnit.Tp.TestMarioKartWithPageObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -717,39 +764,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tp_test - 2018.07.12 at 09h 35m 14s.xml">
+    <history-entry file="Tp - 2018.07.12 at 13h 42m 40s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tp - 2018.07.12 at 13h 42m 56s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tp_test - 2018.07.12 at 13h 48m 15s.xml">
       <configuration name="Tp.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 09h 42m 07s.xml">
+    <history-entry file="Tp_test - 2018.07.12 at 13h 49m 35s.xml">
       <configuration name="Tp.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tp_testMarioKart - 2018.07.12 at 09h 45m 10s.xml">
-      <configuration name="Tp.testMarioKart" configurationId="JUnit" />
+    <history-entry file="Tp - 2018.07.12 at 13h 51m 04s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 00m 24s.xml">
+    <history-entry file="Tp - 2018.07.12 at 13h 51m 36s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tp - 2018.07.12 at 13h 52m 39s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tp - 2018.07.12 at 13h 53m 00s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tp_test - 2018.07.12 at 13h 53m 23s.xml">
       <configuration name="Tp.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 10m 28s.xml">
-      <configuration name="Tp.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 11m 52s.xml">
-      <configuration name="Tp.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 14m 11s.xml">
-      <configuration name="Tp.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 48m 52s.xml">
-      <configuration name="Tp.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 49m 28s.xml">
-      <configuration name="Tp.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tp_test - 2018.07.12 at 10h 51m 22s.xml">
-      <configuration name="Tp.test" configurationId="JUnit" />
+    <history-entry file="Tp - 2018.07.12 at 13h 58m 41s.xml">
+      <configuration name="Tp" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32949308" />
@@ -760,11 +808,11 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32946146" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32946146" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32949308" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -783,6 +831,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
@@ -814,7 +867,8 @@
         <state relative-caret-position="391">
           <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -887,17 +941,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Header.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#openBooks#0;class#Header#0" />
@@ -935,7 +982,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/CartPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#759#760#0" expanded="true" />
@@ -951,7 +998,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/AmazonPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -961,7 +1008,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ConsolePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#361#362#0" expanded="true" />
@@ -996,12 +1043,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Tp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-362">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
           </folding>
         </state>
       </provider>
